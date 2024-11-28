@@ -1,7 +1,6 @@
 import React from 'react'
 import Heading from './Heading'
 import Card from './Card'
-import { title } from 'process'
 
 const data = [
     {
